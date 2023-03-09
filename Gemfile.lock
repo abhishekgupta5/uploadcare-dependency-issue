@@ -213,6 +213,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap
   debug
+  dry-configurable (~> 1.0)
   puma (~> 5.0)
   rails (~> 7.0.4)
   sqlite3 (~> 1.4)
